@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+            line-height: 1.6;
+        }
+        ul {
+            list-style-type: square;
+            color: #444;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Bienvenido a mi Página Web :)))</h1>
+    <p>Esta es una página web de prueba, para un tuto cool.</p>
+
+    <h2>Lista de cosas para hacer:</h2>
+    <ul>
+        <li>Aprender HTML</li>
+        <li>Estudiar CSS</li>
+        <li>Jugar fubo</li>
+    </ul>
+
+    <p>¡Gracias ehhhhhh!</p>
+
+</body>
+</html>
